@@ -17,4 +17,5 @@ Esse novo desafio pedia algumas implementações, que são essas:
   - Filtrar Usuário;
   - Criar conta;
   - Listar contas;
+
 As novas funções e as antigas, que também foram tranformadas em funções, foram chamadas na função main.
